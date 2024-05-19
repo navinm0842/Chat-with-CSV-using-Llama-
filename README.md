@@ -1,4 +1,4 @@
-# Chat-with-CSV-using-Llama-
+# Chat-with-CSV-using-Llama-2
 # CSV File Visualizer and Analyzer with Llama Model
 
 ## Overview
